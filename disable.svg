@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="128" height="128" id="svg2">
+    <metadata id="metadata3">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:title>Touchpad Disable Icon</dc:title>
+                <dc:description>Icon inspired by Awoken gtk icons theme</dc:description>
+                <dc:subject>
+                    <rdf:Bag>
+                        <rdf:li>icon</rdf:li>
+                        <rdf:li>touchpad</rdf:li>
+                        <rdf:li>grey</rdf:li>
+                        <rdf:li>monoshape</rdf:li>
+                        <rdf:li>disable</rdf:li>
+                        <rdf:li>red</rdf:li>
+                        <rdf:li>delete</rdf:li>
+                        <rdf:li>remove</rdf:li>
+                        <rdf:li>off</rdf:li>
+                        <rdf:li>gradient</rdf:li>
+                        <rdf:li>AwOken</rdf:li>
+                    </rdf:Bag>
+                </dc:subject>
+                <dc:publisher>
+                    <cc:Agent rdf:about="http://www.openclipart.org">
+                        <dc:title>Open Clip Art Library</dc:title>
+                    </cc:Agent>
+                </dc:publisher>
+                <dc:creator>
+                    <cc:Agent>
+                        <dc:title>Jakub Jankiewicz</dc:title>
+                    </cc:Agent>
+                </dc:creator>
+                <dc:rights>
+                    <cc:Agent>
+                        <dc:title>Jakub Jankiewicz</dc:title>
+                    </cc:Agent>
+                </dc:rights>
+                <dc:date />
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+                <dc:language>pl</dc:language>
+            </cc:Work>
+            <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+                <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+                <cc:permits rdf:resource="http://web.resource.org/cc/Distribution" />
+                <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs4">
+        <linearGradient x1="-59.031818" y1="-129.05658" x2="-198.17097" y2="-41.597687" id="linearGradient2855-7" xlink:href="#linearGradient3628-1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7887768,0,0,1.7887768,455.05506,338.53595)" />
+        <linearGradient id="linearGradient3628-1">
+            <stop id="stop3630-72" style="stop-color:#dbdbdb;stop-opacity:1" offset="0" />
+            <stop id="stop3632-7" style="stop-color:#757575;stop-opacity:1" offset="1" />
+        </linearGradient>
+        <linearGradient id="linearGradient3628-1-4">
+            <stop id="stop3630-72-9" style="stop-color:#dbdbdb;stop-opacity:1" offset="0" />
+            <stop id="stop3632-7-0" style="stop-color:#757575;stop-opacity:1" offset="1" />
+        </linearGradient>
+        <linearGradient x1="24.760141" y1="-152.46904" x2="-97.743843" y2="-40.365452" id="linearGradient3978" xlink:href="#linearGradient3628-1-4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.72281185,0,0,0.72281185,87.056557,135.1378)" />
+        <linearGradient x1="24.760141" y1="-152.46904" x2="-97.743843" y2="-40.365452" id="linearGradient4114" xlink:href="#linearGradient3628-1-4-7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.72281185,0,0,0.72281185,87.056557,135.1378)" />
+        <linearGradient id="linearGradient3628-1-4-7">
+            <stop id="stop3630-72-9-1" style="stop-color:#dbdbdb;stop-opacity:1" offset="0" />
+            <stop id="stop3632-7-0-7" style="stop-color:#757575;stop-opacity:1" offset="1" />
+        </linearGradient>
+        <linearGradient x1="24.760141" y1="-152.46904" x2="-97.743843" y2="-40.365452" id="linearGradient4149" xlink:href="#linearGradient3628-1-4-7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.72281185,0,0,0.72281185,87.05656,135.1378)" />
+    </defs>
+    <path d="m 18.8125,13.437502 c -4.68762,0 -8.5,3.781133 -8.5,8.46875 l 0,47.499999 0,11.6875 52.09375,0 3.1875,0 52.09375,0 0,-11.6875 0,-47.5 c 0,-4.687617 -3.78113,-8.46875 -8.46875,-8.46875 l -90.40625,0 z m -8.5,70.843749 0,12.531248 0,9.281251 c 0,4.68762 3.81238,8.46875 8.5,8.46875 l 31.46875,0 12.125,0 0,-30.281249 -52.09375,0 z m 55.28125,0 0,30.281249 2.65625,0 9.46875,0 31.5,0 c 4.68762,0 8.46875,-3.78113 8.46875,-8.46875 l 0,-9.281251 0,-12.531248 -52.09375,0 z" id="rect3902-2" style="color:#000000;fill:url(#linearGradient4149);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96360266;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect width="128" height="128" rx="0" ry="0" x="0" y="0" id="rect3872" style="opacity:0;color:#000000;fill:url(#linearGradient2855-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96360266;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path d="m 89.963641,0 c -11.188565,0 -20.25,9.061448 -20.25,20.25 0,11.188552 9.061435,20.28125 20.25,20.28125 11.188529,0 20.281249,-9.092698 20.281249,-20.28125 C 110.24489,9.061448 101.15217,0 89.963641,0 z m -13.25,16.78125 26.531249,0 0,6.96875 -26.531249,0 0,-6.96875 z" id="path3992" style="color:#000000;fill:#bf0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.96360266;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>
